@@ -1,0 +1,154 @@
+[
+  {
+    "Name": "Alice Wong",
+    "Grade": "B",
+    "Marks": 78,
+    "Weakness": "Grammar errors",
+    "Suggestion": "Practice grammar exercises daily",
+    "Attendance": 31
+  },
+  {
+    "Name": "Ben Tan",
+    "Grade": "C",
+    "Marks": 65,
+    "Weakness": "Weak in oral presentations",
+    "Suggestion": "Read more English books and articles",
+    "Attendance": 61
+  },
+  {
+    "Name": "Chloe Lim",
+    "Grade": "A",
+    "Marks": 91,
+    "Weakness": "Minor spelling mistakes",
+    "Suggestion": "Review written work before submission",
+    "Attendance": 85
+  },
+  {
+    "Name": "Daniel Lee",
+    "Grade": "D",
+    "Marks": 44,
+    "Weakness": "Poor comprehension",
+    "Suggestion": "Summarize passages after reading",
+    "Attendance": 26
+  },
+  {
+    "Name": "Emily Chan",
+    "Grade": "B",
+    "Marks": 80,
+    "Weakness": "Weak essay structure",
+    "Suggestion": "Use outlines before writing essays",
+    "Attendance": 11
+  },
+  {
+    "Name": "Farah Rahman",
+    "Grade": "C",
+    "Marks": 68,
+    "Weakness": "Lack of confidence in speaking",
+    "Suggestion": "Join English conversation groups",
+    "Attendance": 96
+  },
+  {
+    "Name": "Gavin Ong",
+    "Grade": "B",
+    "Marks": 75,
+    "Weakness": "Inconsistent tense usage",
+    "Suggestion": "Revise verb tenses and do practice drills",
+    "Attendance": 52
+  },
+  {
+    "Name": "Hannah Teo",
+    "Grade": "A",
+    "Marks": 89,
+    "Weakness": "Occasional punctuation errors",
+    "Suggestion": "Proofread for punctuation",
+    "Attendance": 99
+  },
+  {
+    "Name": "Ivan Goh",
+    "Grade": "D",
+    "Marks": 30,
+    "Weakness": "Difficulty understanding idioms",
+    "Suggestion": "Learn common idioms and their meanings",
+    "Attendance": 76
+  },
+  {
+    "Name": "Jasmine Low",
+    "Grade": "C",
+    "Marks": 66,
+    "Weakness": "Short answers in comprehension",
+    "Suggestion": "Practice expanding answers with details",
+    "Attendance": 29
+  },
+  {
+    "Name": "Kevin Sim",
+    "Grade": "B",
+    "Marks": 77,
+    "Weakness": "Verb agreement errors",
+    "Suggestion": "Review subject-verb agreement rules",
+    "Attendance": 38
+  },
+  {
+    "Name": "Lina Yeo",
+    "Grade": "A",
+    "Marks": 92,
+    "Weakness": "Rarely checks work",
+    "Suggestion": "Always review answers before submitting",
+    "Attendance": 71
+  },
+  {
+    "Name": "Marcus Chua",
+    "Grade": "C",
+    "Marks": 63,
+    "Weakness": "Limited reading comprehension",
+    "Suggestion": "Read a variety of texts regularly",
+    "Attendance": 1
+  },
+  {
+    "Name": "Nadia Lim",
+    "Grade": "B",
+    "Marks": 81,
+    "Weakness": "Passive voice overuse",
+    "Suggestion": "Practice using active voice",
+    "Attendance": 95
+  },
+  {
+    "Name": "Omar Aziz",
+    "Grade": "D",
+    "Marks": 50,
+    "Weakness": "Weak in oral presentations",
+    "Suggestion": "Listen to English podcasts and summarize",
+    "Attendance": 32
+  },
+  {
+    "Name": "Priya Singh",
+    "Grade": "A",
+    "Marks": 95,
+    "Weakness": "Occasional run-on sentences",
+    "Suggestion": "Break long sentences into shorter ones",
+    "Attendance": 84
+  },
+  {
+    "Name": "Qian Li",
+    "Grade": "B",
+    "Marks": 79,
+    "Weakness": "Weak in oral presentations",
+    "Suggestion": "Practice speaking in front of peers",
+    "Attendance": 23
+  },
+  {
+    "Name": "Ravi Kumar",
+    "Grade": "C",
+    "Marks": 67,
+    "Weakness": "Grammar errors",
+    "Suggestion": "Use more adjectives and adverbs",
+    "Attendance": 94
+  },
+  {
+    "Name": "Siti Aminah",
+    "Grade": "B",
+    "Marks": 83,
+    "Weakness": "Weak in oral presentations",
+    "Suggestion": "Highlight keywords in questions",
+    "Attendance": 39
+  }
+]
