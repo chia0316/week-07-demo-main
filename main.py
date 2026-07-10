@@ -13,8 +13,6 @@ st.set_page_config(
     page_title="My Streamlit App"
 )
 
-# Ryan doing some coding here. 
-
 # Check if the password is correct.
 if not check_password():
     st.stop()
